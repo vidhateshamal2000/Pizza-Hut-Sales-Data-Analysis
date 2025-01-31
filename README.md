@@ -42,3 +42,6 @@ The dataset consists of the following tables:
    ```sh
    git clone https://github.com/yourusername/Pizza-Resto-SQL-Analysis.git
 
+   mysql -u root -p < SQL/database_schema.sql
+
+
