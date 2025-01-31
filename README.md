@@ -27,21 +27,4 @@ The dataset consists of the following tables:
 
 ---
 
-## 📂 **Project Structure**
-
-
----
-
-## 🛠️ **Setup & Usage**
-### 🔹 Prerequisites
-- **SQL Database** (MySQL, PostgreSQL, or SQLite)
-- A tool like **DBeaver** or **MySQL Workbench** (for running SQL queries)
-
-### 🔹 Steps to Run
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/yourusername/Pizza-Resto-SQL-Analysis.git
-
-   mysql -u root -p < SQL/database_schema.sql
-
 
